@@ -3,9 +3,9 @@ export const projects = [
     title: "Phonebook App",
     subtitle: "Managing your contacts",
     description:
-      "Below is a project created using python that is used to add your contacts and store them in the cloud. This reduces the hustle of looking for contacts again.",
+      "Below is a project created using python that is used to add your contacts and store them. This reduces the hustle of looking for contacts again.",
     image: "./phone.jpg",
-    link: "",
+    link: "https://mainasseh.pythonanywhere.com/",
   },
   {
     title: "Stock Management",
