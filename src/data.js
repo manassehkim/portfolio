@@ -33,5 +33,4 @@ export const skills = [
   "Next.js",
   "Node",
   "Python",
-  "Blockchain",
 ];
